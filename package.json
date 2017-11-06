@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "Number Formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinodbhatt83/number-formatter.git"
+  },
+  "author": "Vinod Bhatt <vinod.bhatt83@gmail.com> (https://nourl.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinodbhatt83/number-formatter/issues"
+  },
+  "homepage": "https://github.com/vinodbhatt83/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
