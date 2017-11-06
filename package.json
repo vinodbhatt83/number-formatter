@@ -1,7 +1,7 @@
 {
-  "name": "number-formatter",
+  "name": "number-formatter83",
   "version": "0.1.0",
-  "description": "Number Formatter",
+  "description": "Number Formatter 83",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
